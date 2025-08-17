@@ -1,0 +1,5 @@
+hello #%%
+i am taking input from the users
+and then add the values
+
+i have added my creds and readme.md file
